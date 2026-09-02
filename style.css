@@ -63,7 +63,7 @@ input:hover:not(.text, .op) {
 
 .output .text {
   width: 100%;
-  height: 70px;
+  height: 100px;
   padding: 0 20px 0 0;
   margin-bottom: 15px;
   text-align: right;
