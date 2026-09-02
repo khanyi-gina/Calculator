@@ -36,7 +36,7 @@ input {
 input:not(.text) {
   border-radius: 50%;
   width: 70px;
-  height: 100px;
+  height: 150px;
   margin: 10px;
   font-size: 24px;
   font-weight: 500;
