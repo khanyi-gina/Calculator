@@ -33,6 +33,12 @@ input {
   border-radius: 10px;
 }
 
+.dropdown-menu {
+    background: transparent;
+    border: none;
+    padding: 25px;
+}
+
 input:not(.text) {
   border-radius: 50%;
   width: 70px;
