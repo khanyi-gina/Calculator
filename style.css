@@ -38,6 +38,7 @@ input {
     background: white;
     border: 10px;
     padding: 25px;
+    text-align: center;
 }
 
 input:not(.text) {
