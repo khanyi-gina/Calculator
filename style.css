@@ -39,7 +39,7 @@ input {
     border: 10px;
     padding: 25px;
     text-align: left;
-    margin: 0 auto; 
+    margin-top: 20px; 
 }
 
 input:not(.text) {
