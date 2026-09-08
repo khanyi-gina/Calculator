@@ -31,6 +31,7 @@ input {
   background-color: white;
   padding: 40px;
   border-radius: 10px;
+  margin: 0 auto;
 }
 
 .dropdown-menu {
