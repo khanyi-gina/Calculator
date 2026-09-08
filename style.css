@@ -34,11 +34,12 @@ input {
 }
 
 .dropdown-menu {
-     width: 430px;
+    width: 430px;
     background: white;
     border: 10px;
-     padding: 25px;
+    padding: 25px;
     text-align: left;
+    margin: 0 auto; 
 }
 
 input:not(.text) {
