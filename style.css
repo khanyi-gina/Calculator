@@ -43,6 +43,14 @@ input {
     position: relative;
 }
 
+.dropdown-menu > div {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Creates 4 equal columns */
+    gap: 10px; /* Space between buttons */
+    margin-bottom: 10px;
+}
+
+
 input:not(.text) {
   border-radius: 50%;
   width: 70px;
