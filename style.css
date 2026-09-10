@@ -38,7 +38,7 @@ input {
     width: 430px;
     background: white;
     border: 10px;
-    padding: 25px;
+    padding: 20px 0;
     text-align: left;
     position: relative;
 }
