@@ -35,9 +35,9 @@ input {
 }
 
 .dropdown-menu {
-    width: 100px;
+    width: 430px;
     background: white;
-    border: 10px;
+    border: none;
     padding: 25px;
     text-align: left;
     position: relative;
