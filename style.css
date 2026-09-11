@@ -39,9 +39,12 @@ input {
     background: white;
     border: 10px;
     padding: 25px;
-    position: absolute;
-    left: 50px;
 }
+
+.dropdown { 
+  position: absolute;
+  left: 10px;
+} 
 
 input:not(.text) {
   border-radius: 50%;
