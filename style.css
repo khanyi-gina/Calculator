@@ -43,7 +43,7 @@ input {
 }
 
 .dropdown { 
-  order: -1;
+  margin-left: -40px;
 } 
 
 input:not(.text) {
