@@ -32,6 +32,7 @@ input {
   background-color: white;
   padding: 40px;
   border-radius: 10px;
+  position: relative;
 }
 
 .dropdown-menu {
@@ -43,7 +44,6 @@ input {
 
 .dropdown { 
   position: absolute;
-  left: 2px;
 } 
 
 input:not(.text) {
