@@ -40,6 +40,7 @@ input {
     border: 10px;
     padding: 25px;
     position: absolute;
+    left: 10px;
 }
 
 input:not(.text) {
