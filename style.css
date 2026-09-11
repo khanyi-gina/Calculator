@@ -43,7 +43,6 @@ input {
 
 .dropdown { 
   position: absolute;
-  left: 5px;
 } 
 
 input:not(.text) {
