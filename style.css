@@ -9,13 +9,10 @@
 
 body {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  align-items: stretch;
   min-height: 100vh;
   background-color: blueviolet;
   padding: 20px;
-  display: flex;
-  align-items: stretch;
 }
 
 input {
