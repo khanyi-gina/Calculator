@@ -14,6 +14,8 @@ body {
   min-height: 100vh;
   background-color: blueviolet;
   padding: 20px;
+  display: flex;
+  align-items: stretch;
 }
 
 input {
@@ -33,8 +35,6 @@ input {
   padding: 40px;
   border-radius: 10px;
   position: relative;
-  display: flex;
-  align-items: stretch;
 }
 
 .dropdown-menu {
