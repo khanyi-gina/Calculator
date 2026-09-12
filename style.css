@@ -49,10 +49,10 @@ input {
 
 input:not(.text) {
   border-radius: 50%;
-  width: 80px;
+  width: 70px;
   aspect-ratio: 1 / 1; 
   height: 70px;
-  margin: 10px;
+  margin: 8px;
   font-size: 20px;
   font-weight: 500;
   transition: all 0.2s ease-in-out;
