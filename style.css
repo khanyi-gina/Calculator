@@ -40,7 +40,6 @@ input {
     background: white;
     border: 10px;
     padding: 25px;
-    flex-grow: none;
 }
 
 .dropdown { 
