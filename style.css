@@ -34,6 +34,7 @@ input {
   border-radius: 10px;
   position: relative;
   display: flex;
+  align-items: stretch;
 }
 
 .dropdown-menu {
