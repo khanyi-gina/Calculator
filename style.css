@@ -93,5 +93,5 @@ input:hover:not(.text, .op) {
 
 @media (min-width: 430px) {
  .dropdown-menu {
-    font-size: 15px;
+    font-size: 10px;
   }
