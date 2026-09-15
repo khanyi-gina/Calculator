@@ -45,7 +45,6 @@ input {
 
 .dropdown { 
   margin-left: -40px;
-  color: blueviolet;
 } 
 
 input:not(.text) {
@@ -77,7 +76,7 @@ input:hover:not(.text, .op) {
   transition: all 0.2s ease-in-out;
 }
 
-.btn btn-secondary dropdown-toggle {
+.calculater-dropdown {
   color: blueviolet;
 } 
 
