@@ -28,6 +28,7 @@ input {
 }
 
 .calculator {
+  width: 100;
   max-width: 350px;
   background-color: white;
   padding: 40px;
