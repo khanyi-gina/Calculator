@@ -91,3 +91,7 @@ input:hover:not(.text, .op) {
   border-radius: 20%;
 }
 
+@media (min-width: 480px) {
+ .dropdown-menu {
+    max-width: 430px;
+  }
