@@ -87,7 +87,7 @@ input:hover:not(.text, .op) {
 }
 
 .calculator .equal {
-  width: 95%;
+  width: 90%;
   border-radius: 20%;
 }
 
