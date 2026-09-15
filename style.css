@@ -76,6 +76,10 @@ input:hover:not(.text, .op) {
   transition: all 0.2s ease-in-out;
 }
 
+.btn btn-secondary dropdown-toggle {
+  color: blueviolet;
+} 
+
 .output .text {
   width: 99%;
   height: 80px;
