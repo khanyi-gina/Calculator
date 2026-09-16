@@ -92,6 +92,6 @@ input:hover:not(.text, .op) {
 }
 
 @media (min-width: 480px) {
- .dropdown {
-    width: 60%;
+ body {
+    padding: 10px;
   }
