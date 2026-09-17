@@ -28,7 +28,7 @@ input {
 }
 
 .calculator {
-  width: clamp(40px, 15vw, 430px);
+  width: clamp(350px, 15vw, 430px);
   background-color: white;
   padding: 40px;
   border-radius: 10px;
