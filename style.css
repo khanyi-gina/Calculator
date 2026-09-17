@@ -28,8 +28,7 @@ input {
 }
 
 .calculator {
-  width: clamp(40px, 15vw, 70px);
-  height: clamp(40px, 15vw, 70px);
+  width: 430px;
   background-color: white;
   padding: 40px;
   border-radius: 10px;
@@ -37,8 +36,7 @@ input {
 }
 
 .dropdown-menu {
-    width: clamp(40px, 15vw, 70px);
-    height: clamp(40px, 15vw, 70px);
+    width: 430px;
     background-color: white;
     border-radius: 10px;
     padding: 25px;
