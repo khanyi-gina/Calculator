@@ -36,7 +36,7 @@ input {
 }
 
 .dropdown-menu {
-    width: 430px;
+    width: clamp(350px, 15vw, 430px);
     background-color: white;
     border-radius: 10px;
     padding: 25px;
