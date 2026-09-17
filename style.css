@@ -92,6 +92,6 @@ input:hover:not(.text, .op) {
 }
 
 @media (min-width: 480px) {
-.body {
-  margin: 0 20px;
+.input:not(.text) {
+  font-size: 15px;
 }
