@@ -28,7 +28,7 @@ input {
 }
 
 .calculator {
-  width: clamp(350px, 15vw, 430px);
+  width: 430px;
   background-color: white;
   padding: 40px;
   border-radius: 10px;
@@ -36,7 +36,7 @@ input {
 }
 
 .dropdown-menu {
-    width: clamp(350px, 15vw, 430px);
+    width: 430px;
     background-color: white;
     border-radius: 10px;
     padding: 25px;
@@ -44,7 +44,7 @@ input {
 }
 
 .dropdown { 
-  margin-left: -40px;  
+  margin-left: -40px;
 } 
 
 input:not(.text) {
@@ -89,4 +89,9 @@ input:hover:not(.text, .op) {
 .calculator .equal {
   width: 92%;
   border-radius: 20%;
+}
+
+@media (max-width: 480px) {
+.dropdown {
+  width: 430px;
 }
