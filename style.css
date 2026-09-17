@@ -92,6 +92,6 @@ input:hover:not(.text, .op) {
 }
 
 @media (min-width: 480px) {
-.calculator {
+body {
   width: 100%;
 }
