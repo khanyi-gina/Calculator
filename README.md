@@ -9,7 +9,6 @@ What is unique about it is that it has a drop down keyboard.
     <img src="Keyboard.jpg" alt="Calculator keyboard image" width="40%" height="40%"/>
 </a>
 
-
 <a href="https://basic-calculator-appl.netlify.app/">
     <img src="Calculator.jpg" alt="Calculator image" width="40%" height="40%"/>
 </a>
