@@ -6,9 +6,9 @@ What is unique about it is that it has a drop down keyboard.
 𝗖𝗹𝗶𝗰𝗸 𝗶𝗺𝗮𝗴𝗲 𝗯𝗲𝗹𝗼𝘄 𝘁𝗼 𝘃𝗶𝗲𝘄 
 
 <a href="https://basic-calculator-appl.netlify.app/">
-    <img src="images/MobileSpa.jpg" alt="bukhosini mobile spa image" width="60%" height="60%"/>
+    <img src="Keyboard.jpg" alt="Calulator keyboard image" width="60%" height="60%"/>
 </a>
 
 <a href="https://basic-calculator-appl.netlify.app/">
-    <img src="images/MobileSpa.jpg" alt="bukhosini mobile spa image" width="60%" height="60%"/>
+    <img src="Calculator.jpg" alt="Calculator image" width="60%" height="60%"/>
 </a>
